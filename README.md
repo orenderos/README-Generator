@@ -8,8 +8,6 @@ CodeQuiz is an interactive web application made to test the user's knowledge of 
 No installation necessary with the exception of a functioning internet browser.
 
 ## Usage
-Accessible via:
-https://abautista3712.github.io/CodeQuiz/
 
 ## Contributing
 External contributions are discouraged.
